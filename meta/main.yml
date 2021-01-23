@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Michael Cleary
+  description: Create and mount simple LVM
+
+  license: GPLv2
+
+  min_ansible_version: 2.5
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+    - 8
+
+  galaxy_tags: 
+    - system
+
+dependencies: []
